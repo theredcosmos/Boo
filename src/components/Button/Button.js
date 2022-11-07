@@ -12,7 +12,7 @@ const Button = () =>{
      
     return(
        <div>
-         <img src={imgfr} alt="cat" className="pa2-m"/>
+         <img src={imgfr} alt="cat" className="w-80-m"/>
          <br/>
          <a className="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-purple mt4 w-m-10 center" href="#0" onClick={showMe}>I am Bored</a>
        
